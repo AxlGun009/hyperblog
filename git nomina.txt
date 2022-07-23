@@ -1,0 +1,35 @@
+[33mcommit dc8cacd6339d6a77fd5a3866795158e5272dc0b3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gerardo.Morales <gerardomg009@gmail.com>
+Date:   Sat Jul 23 11:26:49 2022 +0200
+
+    nuevo archivo prueba y que hare en nomina
+
+[33mcommit 7b9c5eadd3728cd401f43c9548fde60beeb1f904[m
+Author: Gerardo.Morales <gerardomg009@gmail.com>
+Date:   Fri Jul 22 18:57:29 2022 +0200
+
+    poner a correr el networking
+
+[33mcommit 94e81fa7fcdaa8d4f64df3891c69e0bd26a0d033[m
+Author: Gerardo.Morales <gerardomg009@gmail.com>
+Date:   Fri Jul 22 00:17:51 2022 +0200
+
+    estoy creando un cronograma
+
+[33mcommit 3564ad27cd90b50ff212d735c6ec09265e2c44ae[m
+Author: Gerardo.Morales <gerardomg009@gmail.com>
+Date:   Fri Jul 22 00:13:51 2022 +0200
+
+    1er comentario de esta archivo
+
+[33mcommit 7740e06c8ddc966e310f9e49cee8a7391cb4792e[m
+Author: Gerardo.Morales <gerardomg009@gmail.com>
+Date:   Thu Jul 21 22:54:13 2022 +0200
+
+    2da version de este archivo
+
+[33mcommit 25f0d9e2b51cb54abfeb30c311d664a222cff7c3[m
+Author: Gerardo.Morales <gerardomg009@gmail.com>
+Date:   Thu Jul 21 22:35:35 2022 +0200
+
+    1er commit de este archivo
